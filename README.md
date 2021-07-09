@@ -100,3 +100,4 @@ accepts an argument for the dog's name. That argument should be stored within a
 Additionally, `Dog#initialize` should accept a second optional argument for the
 dog's breed stored in an instance variable `@breed`. When none is provided, it
 should default to "Mutt".
+# Phase3ObjectInitialization
